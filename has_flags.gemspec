@@ -8,7 +8,7 @@ PKG_FILES = FileList[
 
 spec = Gem::Specification.new do |s|
   s.name = "has_flags"
-  s.version = "0.0.1"
+  s.version = "0.0.2"
   s.author = "Darryl West"
   s.email = "darryl.west@RainCitySoftware.com"
   s.homepage = "https://github.com/ashleym1972/has-flags"

@@ -1,6 +1,7 @@
 require 'test/unit'
+require 'rubygems '
 require 'active_record'
-require File.expand_path(File.dirname(__FILE__) + "/../lib/has_flags")
+require 'has_flags'
 
 #
 # darryl.west@RainCitySoftware.com

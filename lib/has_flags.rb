@@ -114,11 +114,7 @@ module RainCity
             end
           end
           
-          if true
-            define_method( 'after_initialize' ) do
-              initialize_flags
-            end
-          end
+          after_initialize :initialize_flags
         end
         
         #
